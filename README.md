@@ -5,3 +5,4 @@ Dentro de las funcionalidades de la clase "Cafeteria.java" tenemos los métodos 
 
 Para utilizar el código, solo basta saber que las funciones con las que tenemos que tener cuidado son las de buscarCafe() a la que debemos ingresarle un tamaño del tipo "Tamaño" (Grande, Pequeño, Mediano); Además de que para eliminar Cafés y rosquillas con el método eliminarCafe() o eliminarDona(), debemos ingresar la posicion del café o rosquilla en cuestion.
 
+![](https://github.com/gugasito/ayudanta03.2/blob/main/Cafeteria.jpg)
